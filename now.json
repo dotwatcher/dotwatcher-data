@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "type": "docker",
+  "alias": [
+    "data.dotwatcher.cc"
+  ]
+}
